@@ -4,13 +4,13 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 🧩 Architecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](./architecture.png)
 
 ---
 
-## 📦 Project Deliverables
+## Project Deliverables
 
 - `architecture.png` – High-level AWS architecture diagram
 - `proposal.docx` – Formal technical proposal explaining architecture, security, cost analysis, and enhancements
@@ -18,7 +18,7 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Replace legacy monolith with modern AWS-native components
 - Enable seamless auto-scaling for large traffic surges
@@ -29,7 +29,7 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 🛠️ AWS Services Used
+##  AWS Services Used
 
 | Category       | AWS Services                                                                 |
 |----------------|------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 💸 Cost Summary (Sample Estimate)
+## Cost Summary (Sample Estimate)
 
 | Service          | Monthly Estimate |
 |------------------|------------------|
@@ -59,19 +59,19 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
-- ✅ **Cognito-based JWT auth**
-- 🔐 HTTPS (TLS 1.2+) enforced via ACM
-- 🔥 AWS WAF rules to block common web exploits
-- 📉 IAM least privilege across all roles
-- 📦 S3 + DynamoDB encryption at rest
-- 🕵️ CloudWatch + GuardDuty monitoring
-- 📜 IAM Access Analyzer to detect misconfigurations
+- **Cognito-based JWT auth**
+- HTTPS (TLS 1.2+) enforced via ACM
+- AWS WAF rules to block common web exploits
+- IAM least privilege across all roles
+- S3 + DynamoDB encryption at rest
+- CloudWatch + GuardDuty monitoring
+- IAM Access Analyzer to detect misconfigurations
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 - Multi-region DR setup using DynamoDB Global Tables + Route 53 failover
 - Product search with Amazon OpenSearch
@@ -82,7 +82,7 @@ This project demonstrates a full-scale, real-world AWS serverless architecture f
 
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 
 This project showcases:
 
@@ -94,15 +94,15 @@ This project showcases:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Surya Ravichandran**  
 Cloud Solutions Architect & Analytics Enthusiast  
-📫 hello.surya@protonmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/surya-ravichandran/)  
+suryaravichandran0108@gmail.com
+[LinkedIn](https://www.linkedin.com/in/surya-ravichandran/)  
 
 ---
 
-## 📄 License
+## License
 
 This project is part of a public cloud architecture portfolio for educational and demonstration purposes. You are welcome to fork or reuse with credit.
