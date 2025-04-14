@@ -23,7 +23,7 @@ To showcase hands-on cloud architecture expertise through practical examples of 
 - CI/CD via AWS CodePipeline and CodeBuild
 - Realistic cost breakdown and optimization recommendations
 
-👉 [View Project Folder](./brightcart-ecommerce-architecture)
+[View Project Folder](./brightcart-ecommerce-architecture)
 
 ---
 
@@ -31,10 +31,10 @@ To showcase hands-on cloud architecture expertise through practical examples of 
 
 **Surya Ravichandran**  
 Cloud Solutions Architect | Data & Cloud Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/surya-ravichandran/) | 🌐 [Portfolio Website](#)
+[LinkedIn](https://www.linkedin.com/in/surya-ravichandran/) 
 
 ---
 
-## 📜 License
+## License
 
 This repo is for learning and demonstration purposes. You are welcome to fork and build upon the ideas.
