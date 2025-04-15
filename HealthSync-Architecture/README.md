@@ -2,7 +2,7 @@
 
 This project presents a full-stack, cloud-native, serverless architecture for a fictional healthcare platform called **HealthSync**. It collects and analyzes real-time biometric data from IoT-enabled wearable devices, processes and alerts clinicians in real-time, stores patient data securely for long-term access, and provides analytics and AI-driven predictive insights.
 
-## 📌 Project Highlights
+## Project Highlights
 - **Real-time Ingestion** via AWS IoT Core and Kinesis
 - **Event-driven Processing** using Lambda, EventBridge, and Step Functions
 - **Immediate Notification System** through SNS, SES, and Slack (via Chatbot)
@@ -13,14 +13,14 @@ This project presents a full-stack, cloud-native, serverless architecture for a 
 - **CI/CD & Infrastructure as Code** through CodePipeline, CodeBuild, and CloudFormation
 - **Security-first Design** including IAM, KMS, WAF, and CloudTrail
 
-## 📁 Folder Contents
+## Folder Contents
 - `architecture.png` – Final architecture diagram
 - `case-study.pdf` – Full documentation with problem statement, architecture decisions, and detailed explanations
 - `README.md` – Project summary (this file)
 
-## 🔒 Compliance Ready
+## Compliance Ready
 This architecture is designed with HIPAA-style security considerations including encryption at rest, strict IAM boundaries, audit logging, and secure data flow practices.
 
 ---
 
-For more cloud architecture projects like this, visit [your GitHub profile or portfolio link here].
+Author: Surya Ravichandran
