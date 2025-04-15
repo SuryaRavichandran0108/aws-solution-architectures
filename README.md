@@ -41,6 +41,8 @@ CodePipeline, WAF, KMS, IAM, CloudWatch, CloudTrail.
 - Fully serverless with end-to-end CI/CD using CodePipeline and CloudFormation
 - HIPAA-style compliance with encryption, least privilege IAM, and full auditability
 
+[View Project Folder](./HealthSync-Architecture)
+
 ---
 
 ## Author
