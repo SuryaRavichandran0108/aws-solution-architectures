@@ -25,6 +25,16 @@ To showcase hands-on cloud architecture expertise through practical examples of 
 
 [View Project Folder](./brightcart-ecommerce-architecture)
 
+### 2. HealthSync – Real-Time Patient Monitoring System
+**Use Case**: Build a cloud-native platform to ingest and analyze real-time biometric data from IoT-enabled wearables, trigger clinical alerts, and support long-term analytics and predictive healthcare insights — all with high availability and HIPAA-aligned security. 
+**Architecture Includes**: AWS IoT Core, Kinesis Data Streams, Lambda, API Gateway, Step Functions, EventBridge, SNS, SES, DynamoDB, S3 + Glacier, Glue, Athena, QuickSight, SageMaker, Route 53, CloudFormation, CodePipeline, WAF, KMS, IAM, CloudWatch, CloudTrail.
+**Highlights**:
+- Real-time event-driven architecture with IoT integration
+- Multi-region disaster recovery using Route 53, Global Tables, and S3 CRR
+- AI/ML layer with Amazon SageMaker for early health risk detection
+- Fully serverless with end-to-end CI/CD using CodePipeline and CloudFormation
+- HIPAA-style compliance with encryption, least privilege IAM, and full auditability
+
 ---
 
 ## Author
